@@ -1,0 +1,11 @@
+{
+    "name": "songzw/hello",
+    "description": "test",
+    "authors": [
+        {
+            "name": "songzw",
+            "email": "songzw1024@163.com"
+        }
+    ],
+    "require": {}
+}
